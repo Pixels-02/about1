@@ -85,7 +85,42 @@ a{
 
 }
 a:hover{
+    
     color: rgb(15, 15, 15);
     text-decoration: underline;
     font-family: 'Times New Roman', Times, serif;
+}
+.btn1{
+    z-index: 4;
+    align-self: center;
+    border-width: 0.4px;
+    border: solid;
+    border-color: rgb(208, 255, 0);
+    width: 40%;
+    margin-top: 10%;
+    margin: auto;
+    cursor: pointer;
+    border: solid;
+    color: rgb(247, 247, 7);
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-width: 1px;
+    height: 30px;
+    border-radius: 8px;
+    background-color: rgb(113, 201, 201);
+
+}
+.btn1:hover{
+    background-color: rgb(117, 44, 44);
+    color: rgb(48, 182, 48);
+    border: solid;
+    border-width: 1px;
+    height: 40px;
+    width: 40%;
+
+}
+.button{
+    z-index: 4;
+    height: 80px;
+    align-content: center;
 }
