@@ -174,4 +174,12 @@ a:hover{
 .prev:hover, .next:hover {
     background-color: rgba(0,0,0,0.8);
 }
+.anchor{
+    text-decoration: none;
+    color: rgb(208, 255, 0);
+}
+.anchor:hover{
+    color: chartreuse;
+    text-decoration: none;
+}
 
